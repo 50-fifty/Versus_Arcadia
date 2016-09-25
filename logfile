@@ -8,3 +8,11 @@ ERROR:  database "versus_academy_development" already exists
 STATEMENT:  CREATE DATABASE "versus_academy_development" ENCODING = 'unicode'
 ERROR:  database "versus_academy_test" already exists
 STATEMENT:  CREATE DATABASE "versus_academy_test" ENCODING = 'unicode'
+LOG:  using stale statistics instead of current ones because stats collector is not responding
+LOG:  using stale statistics instead of current ones because stats collector is not responding
+LOG:  using stale statistics instead of current ones because stats collector is not responding
+LOG:  using stale statistics instead of current ones because stats collector is not responding
+LOG:  using stale statistics instead of current ones because stats collector is not responding
+LOG:  using stale statistics instead of current ones because stats collector is not responding
+LOG:  using stale statistics instead of current ones because stats collector is not responding
+LOG:  using stale statistics instead of current ones because stats collector is not responding
