@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Characteridone:</strong>
+  <%= @game.CharacterIdOne %>
+</p>
+
+<p>
+  <strong>Characteridtwo:</strong>
+  <%= @game.CharacterIdTwo %>
+</p>
+
+<p>
+  <strong>Playeridone:</strong>
+  <%= @game.PlayerIdOne %>
+</p>
+
+<p>
+  <strong>Playeridtwo:</strong>
+  <%= @game.PlayerIdTwo %>
+</p>
+
+<p>
+  <strong>Stageid:</strong>
+  <%= @game.StageId %>
+</p>
+
+<p>
+  <strong>Gamenotes:</strong>
+  <%= @game.GameNotes %>
+</p>
+
+<%= link_to 'Edit', edit_game_path(@game) %> |
+<%= link_to 'Back', games_path %>

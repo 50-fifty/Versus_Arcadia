@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  CharacterIdOne: 1
+  CharacterIdTwo: 1
+  PlayerIdOne: 1
+  PlayerIdTwo: 1
+  StageId: 1
+  GameNotes: MyText
+
+two:
+  CharacterIdOne: 1
+  CharacterIdTwo: 1
+  PlayerIdOne: 1
+  PlayerIdTwo: 1
+  StageId: 1
+  GameNotes: MyText
